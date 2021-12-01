@@ -1,2 +1,2 @@
 # Vividv2Linux
-ss
+outdated
